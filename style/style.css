@@ -1,0 +1,88 @@
+header{
+    /* background-image: url(../resources/Banner\ Image.png); */
+}
+.container{
+    position: relative;
+    text-align: center;
+    width: auto;
+    height: auto;
+    
+}
+.banner-text{
+    height: 245px;
+    width: 632px;
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.banner-paragraph{
+    font-size: 32px;
+    font-weight: 400;
+
+}
+.banner-heading{
+    margin-top: -15px;
+    font-size: 72px;
+    font-weight: 900;
+}
+.section1-banner{
+    width:auto;
+    height: auto;
+    text-align: center;
+}
+.section1-paragraph1{
+    color: red;
+    font-size: 88px;
+    font-weight: 700;
+}
+.section1-paragraph2{
+    color: red;
+    font-size: 25px;
+    font-weight: 500;
+}
+.section1-paragraph3{
+    color: black;
+    font-size: 50px;
+    font-weight: 700;
+}
+.section2{
+    margin-top: 40px;
+    position: relative;
+    height: auto;
+    width: auto;
+}
+.section2-text{
+    text-align: left;
+    height: 245px;
+    width: 632px;
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.section2-paragraph1{
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    margin: -50px 0px 0px -200px;
+}
+.section2-banner{
+    height: auto;
+    width: auto;
+    text-align: left;
+
+}
+.section2-paragraph2{
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: -120px;
+}
+.primary-button{
+    color:red;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
